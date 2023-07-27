@@ -1,4 +1,4 @@
-### 👋 Hello there! Welcome to my GitHub profile!
+# 👋 Hello there! Welcome to my GitHub profile!
 
 I am a passionate Software Engineer with a relentless curiosity for creating innovative and efficient solutions. My primary focus lies in developing open-source software solutions, and I find immense joy in collaborating with the vibrant developer community to build impactful projects.
 
